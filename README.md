@@ -1,7 +1,7 @@
 # ЛР 4.1-4.2 (ГРИГОРЬЕВ 4384)
 
 ## 1. Установка PostgreSQL
-Инструкции и исполняемые файлы для установки для своей платфморы стоит искать на <a href="https://www.postgresql.org/download/" target="_blank">официальном сайте<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" width="120px"></a>.<br>
+Инструкции и исполняемые файлы для установки для своей платформы стоит искать на <a href="https://www.postgresql.org/download/" target="_blank">официальном сайте<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" width="120px"></a>.<br>
 Пошаговая инструкция по установке PostgreSQL в среде ОС Windows описана в отчёте по лабораторной работе.
 
 ## 2. Создание БД и подключение
