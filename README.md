@@ -15,6 +15,7 @@ CREATE DATABASE ETO_BAZA;
 > Выполните `\! chcp 1251`, если есть проблемы с отображением кириллицы.
 
 ## 3. Импорт SQL запросов и проверка результатов
+<a href="https://github.com/brabrobri/LABS-4.1-4.2-GRIGOREV-4384/blob/main/request.sql" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/request-.sql-cornflowerblue"></a> <a href="https://github.com/brabrobri/LABS-4.1-4.2-GRIGOREV-4384/blob/main/output.txt" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/output-.txt-limegreen"></a>
 1. Выполните `\i 'request.sql'`, чтобы отправить в обработку пакет запросов SQL, а не вводить каждый запрос по отдельности.
 1. Выполните `\o 'output.txt'`, чтобы сохранить результаты запросов во внешнем файле. Это необходимо при выполнении последнего задания из ЛР 4.2.
 > [!NOTE]
