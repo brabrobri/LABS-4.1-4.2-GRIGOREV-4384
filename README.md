@@ -1,6 +1,7 @@
 # ЛР 4.1-4.2 (ГРИГОРЬЕВ 4384)
 > Теория языков программирования
 ## 1. Установка PostgreSQL
+<a href="https://www.enterprisedb.com/downloads/postgres-postgresql-downloads" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-16.1_(Windows_x86%E2%80%93x64)-blue?logo=postgresql"></a><br>
 Инструкции и файлы установки для своей платформы стоит искать на <a href="https://www.postgresql.org/download/" target="_blank">**официальном сайте** <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30px"></a>.<br>
 Пошаговая инструкция по установке **PostgreSQL** в среде ОС **Windows** описана в отчёте по лабораторной работе.
 
