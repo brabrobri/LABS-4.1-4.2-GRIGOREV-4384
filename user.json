@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Стас Г.",
+        "email": "stas.g@example.com"
+    },
+    {
+        "id": 2,
+        "name": "Егор Я.",
+        "email": "egor.ya@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Александр Ш.",
+        "email": "sasha.sh@example.com"
+    }
+]
